@@ -4,13 +4,10 @@
 #pragma once
 
 // Home row mods configuration
-#define TAPPING_TERM 200
+#define TAPPING_TERM 175
 #define PERMISSIVE_HOLD
-// #define HOLD_ON_OTHER_KEY_PRESS
 #define CHORDAL_HOLD
 
-// #define RGB_MATRIX_DISABLE_SHARED_KEYCODES
-// #define RGB_MATRIX_TIMEOUT 60000
 #define RGB_MATRIX_TIMEOUT 600000
 #define RGB_HUE_STEP 1
 #define RGB_SAT_STEP 1

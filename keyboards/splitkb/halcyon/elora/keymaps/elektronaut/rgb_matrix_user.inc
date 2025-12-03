@@ -20,5 +20,3 @@ static bool home_row_indicators(effect_params_t *params) {
     return rgb_matrix_check_finished_leds(led_max);
 }
 #endif // RGB_MATRIX_CUSTOM_EFFECT_IMPLS
-
-// rgb_matrix_mode(RGB_MATRIX_CUSTOM_home_row_indicators);
